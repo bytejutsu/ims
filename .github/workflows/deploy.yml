@@ -25,4 +25,4 @@ jobs:
           port: ${{ secrets.PORT }}
           key: ${{ secrets.SSHKEY }}
           script: "cd /var/www/html/ims"
-          run: "./.scripts/deploy.sh"
+          run: "bash ./.scripts/deploy.sh"
