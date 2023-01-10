@@ -37,7 +37,7 @@
             @endif
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
-                <h1>myfatoora production 5</h1>
+                <h1>myfatoora production test</h1>
             </div> 
         </div>
     </body>
